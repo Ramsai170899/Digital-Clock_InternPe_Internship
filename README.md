@@ -5,7 +5,6 @@
 🕒 This project demonstrates the creation of a digital clock using Python. The clock is built using the Tkinter library and displays the current time in hours, minutes, and seconds. The clock also includes a day and night mode toggle button.
 
 ## Preview
-
 ![Digital Clock Preview](![image](https://github.com/Ramsai170899/Digital-Clock_InternPe_Internship/assets/81312213/dc64ac10-83cc-4cc1-b423-594b7616799c))
 
 
