@@ -1,4 +1,4 @@
-# Internpe Virtual Internship: Digital Clock
+# Internpe Virtual Internship task - 2 : Digital Clock
 
 [![LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue)](https://www.linkedin.com/in/ram-sai-jagadish-yenugadhati-8909201b1)
 
