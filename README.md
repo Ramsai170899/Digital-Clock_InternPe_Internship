@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Digital Clock Preview](![image](https://github.com/Ramsai170899/Digital-Clock_InternPe_Internship/assets/81312213/ece979b3-4f91-4244-8ee1-0d44b4a86493))
+![Digital Clock Preview](![image](https://github.com/Ramsai170899/Digital-Clock_InternPe_Internship/blob/main/time.png))
 
 
 ## Prerequisites
